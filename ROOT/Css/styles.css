@@ -1,0 +1,233 @@
+.logo_centre {
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav {
+	
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+}
+
+.nav li{
+	
+	display: inline-block;
+ }
+  
+
+#bg { 
+	
+	
+	margin: 0 auto;
+	width: 100%;
+	height: 681px;
+  
+	background-image: url("../Assets/GSAP1.jpg"); 
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nav_menu{
+
+	text-align: centre;
+	width 100%;
+	padding-left: 32%
+	
+}
+
+.space{
+		
+	width: 15%;
+	float: left;
+	
+	
+}
+
+p.nav_font{
+	
+	font: 20px serif;
+}
+
+a:link{
+	
+	color: grey;
+	background-color: transparent;
+	
+}
+
+a:visited{
+	
+	color: grey;
+	background-color: transparent;
+	
+}
+	
+
+
+a:hover{
+	
+	color: white;
+	background-color: transparent;
+	
+}
+
+.article{
+	
+	padding-top: 0px;
+	
+	padding-left: 20px;
+	
+	float: left;
+	
+	
+}
+
+.headline{
+	
+	padding-left: 200px;
+	color:white;
+}
+
+
+
+.image{
+	
+	float: left;
+	padding-top: 0px;
+	
+}
+
+
+.clearfix::after {
+	content: "";
+	clear: both;
+	display:table;
+	
+	
+	
+}
+
+
+
+
+
+.text{
+	padding: 20px;
+	color: white;
+	
+}
+
+
+
+
+.Customiser{
+	
+	font: 20px serif;
+	padding-top: 100px;
+	padding-left: 39%;
+}
+
+
+
+#cust_title{
+	
+	color: white;
+	float: left;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.box1 {
+  float: left;
+  width: 12.5%;
+  height: 180px;
+  padding: 0px;
+  border-style: solid;
+	border-color: red;
+	background-color: #FFFFFF;
+}
+.box2 {
+  float: left;
+  width: 12.5%;
+  height: 180px;
+  padding: 0px;
+  border-style: solid;
+	border-color: red;
+	background-color: #000000;
+	}
+	.box {
+  float: left;
+  width: 12.5%;
+  height: 180px;
+  padding: 0px;
+  border-style: solid;
+	border-color: red;
+
+	}
+	
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+
+
+}
+
+
+.product
+{
+	
+	
+	padding-top: 150px;
+	
+}
+
+
+
+.design{
+	
+	
+	padding-top: 25px;
+}
+
+
+
+
+.final
+{
+	
+	padding-top: 0px;
+	
+	
+}
+
+
+
+
+.box4 {
+  float: right;
+  width: 50%;
+  height: 500px;
+  padding: 0px;
+  border-style: solid;
+	border-color: red;
+	background-color: #ccc;
+}
+
+.box5 {
+  float: left;
+  width: 12.5%;
+  height: 180px;
+  padding: 0px;
+  border-style: solid;
+	border-color: red;
+	background-color: #FFFFFF;
